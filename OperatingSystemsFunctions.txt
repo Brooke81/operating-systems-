@@ -1,2 +1,7 @@
 Booting is turning on the computer. It makes sure the operating system is in working order and can do its job. Booting is an 
 essential part of the operating system because it tests the operating system to make sure it is working. 
+
+
+Memory managemet is the memory of the entier system. Without the operating system there woudnt be an sort of memory managemet. 
+Each diffrent program needs the memory management to keep the each system in order. No operatig system will cause the programs to 
+mix with eachother there for the system will fail.
