@@ -1,0 +1,2 @@
+Booting is turning on the computer. It makes sure the operating system is in working order and can do its job. Booting is an 
+essential part of the operating system because it tests the operating system to make sure it is working. 
